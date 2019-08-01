@@ -162,6 +162,18 @@ footer p{
         margin: 30px auto 100px auto;
         text-align: left;
     }
+    
+    nav a{
+        font-size: 18px;
+    }
+    nav a img{
+        vertical-align: middle;
+        width: 60px;
+        height: 60px;
+        float: left;
+        margin-top: 20px;
+    }
+
     h1{
         font-size: 44px;
         text-align: center;
@@ -174,6 +186,9 @@ footer p{
         text-align: center;
         width: 90%;
         margin: 60px auto;
+    }
+    footer p{
+        font-size: 20px;
     }
 
     .btn{
